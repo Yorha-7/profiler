@@ -1,0 +1,7 @@
+/home/jayesh/Projects/Second_year_projects/profiler/build/CMakeFiles/profiler.dir
+/home/jayesh/Projects/Second_year_projects/profiler/build/CMakeFiles/edit_cache.dir
+/home/jayesh/Projects/Second_year_projects/profiler/build/CMakeFiles/rebuild_cache.dir
+/home/jayesh/Projects/Second_year_projects/profiler/build/CMakeFiles/list_install_components.dir
+/home/jayesh/Projects/Second_year_projects/profiler/build/CMakeFiles/install.dir
+/home/jayesh/Projects/Second_year_projects/profiler/build/CMakeFiles/install/local.dir
+/home/jayesh/Projects/Second_year_projects/profiler/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,2 @@
+/usr/local/lib/libprofiler.a
+/usr/local/include/profiler.hpp
